@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev56k&label=Profile%20views&color=0e75b6&style=flat" alt="dev56k" /> </p>
 
+- 🔭 I’m currently working on Github Project
+
 - 🌱 I’m currently learning **Web Development, Vuesjs, Svelte**
 
 - 💬 Ask me about **html, css, javascript**
