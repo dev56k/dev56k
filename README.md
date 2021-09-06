@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm dev56k</h1>
-<h3 align="center">A web developer</h3>
+<h3 align="center">I am a software developer focused on web development. </h3>
+<h4 align="center">I has experience  building applications  web. Recently, though, my focus has been directed towards JavaScript libraries.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev56k&label=Profile%20views&color=0e75b6&style=flat" alt="dev56k" /> </p>
 
